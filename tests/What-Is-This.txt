@@ -1,5 +1,0 @@
-This is where I store random Editor Addons/Tools I made...
-It Should be noted that these can be VERY poorly implemented/unstable.
-
-DO NOT create Issues for these files, I have no plans on maintaining them.
-Use it for your own enjoyment.
