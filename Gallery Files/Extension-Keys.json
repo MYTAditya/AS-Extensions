@@ -332,7 +332,7 @@
     "Renderer-Control": {
       "credits": "Control Visuals of Pen, Video Camera, Backdrops, Sprites and More. Made by SharkPool",
       "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Renderer-Control.js",
-      "tags": ".all.utilities.expanded.category",
+      "tags": "all.utilities.expanded.category",
       "status": "",
       "date": "Last Updated: 07/25/2024"
     },
@@ -349,83 +349,6 @@
       "tags": ".all.utilities",
       "status": "",
       "date": "Released: 02/01/2024"
-    },
-    "Extra-Controls": {
-      "credits": "New Advanced Control Blocks. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Extra-Controls.js",
-      "tags": ".all.utilities.expanded.category",
-      "status": "",
-      "date": "Last Updated: 09/01/2024"
-    },
-    "More-Operators": {
-      "credits": "New Powerful Operator Blocks. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/More-Operators.js",
-      "tags": ".all.utilities.expanded.category",
-      "status": "",
-      "date": "Last Updated: 08/15/2024"
-    },
-    "Captchas": {
-      "credits": "Simple Client-Based Captcha Extension, doesnt promise 100% security. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Captchas.js",
-      "tags": ".all.utilities",
-      "status": "",
-      "date": "Released: 04/05/2024"
-    },
-    "Better-Comments": {
-      "credits": "Better Comments with Color and Text Customization. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Better-Comments.js",
-      "tags": ".all.expanded.addon",
-      "status": "",
-      "date": "Last Updated: 07/27/2024"
-    },
-    "Sprite-Panel": {
-      "credits": "Manage, View, and Apply Properties to Sprites and Clones. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Sprite-Panel.js",
-      "tags": ".all.expanded.addon",
-      "status": "",
-      "date": "Last Updated: 07/22/2024"
-    },
-    "DOM-Selector": {
-      "credits": "Read Elements and Create Events from the Website. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/DOM-Selector.js",
-      "tags": ".all.utilities",
-      "status": "",
-      "date": "Last Updated: 07/01/2024"
-    },
-    "SVG-Spritesheets": {
-      "credits": "Create and Export SVG Spritesheets. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/SVG-Spritesheets.js",
-      "tags": ".all.utilities",
-      "status": "",
-      "date": "Last Updated: 08/15/2024"
-    },
-    "Community-Spotlight": {
-      "credits": "Display and Promote Projects for Free. Made by SharkPool and the Community Spotlight Team",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/Community-Spotlight.js",
-      "tags": ".all.fetching",
-      "status": "",
-      "date": "Last Updated: 08/17/2024"
-    },
-    "GIF-Manager": {
-      "credits": "Create and Split GIF Files. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/GIF-Manager.js",
-      "tags": ".all.utilities",
-      "status": "",
-      "date": "Released: 08/29/2024"
-    },
-    "JSON-Array": {
-      "credits": "Super Fast JSON and Array Extension. Made by SharkPool",
-      "url": "https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main/extension-code/JSON-Array.js",
-      "tags": ".all.utilities",
-      "status": "update",
-      "date": "Last Updated: 09/26/2024"
-    },
-    "Example": {
-      "credits": "",
-      "url": "",
-      "tags": ".all.utilities.expanded.fetching.searchQ",
-      "status": "",
-      "date": ""
     }
   },
   "GAL text": [
