@@ -6,4 +6,4 @@ Please dont take any files from this gallery to put in someone elses gallery wit
 See [CONTRIBUTING.md](https://github.com/MYTAditya/AS-Extensions/blob/main/CONTRIBUTING.md).
 
 ## License
-**All Extensions** in this Repository use the **MIT and LGPL-3.0 Licences**. The website is licensed under **GPL-3.0 License**.
+**All Extensions** in this Repository use the **MIT and/or LGPL-3.0 Licences**. The website is licensed under **GPL-3.0 License**.
