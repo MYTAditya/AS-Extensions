@@ -308,7 +308,7 @@
     }
 
     commentC(args, util) {
-      util.startBranch(1, false);
+      return true;
     }
 
     commentReporter(args) {
@@ -340,7 +340,7 @@
     }
 
     commentReporterPlus(args) {
-      return ''
+      return '';
     }
 
     commentCap() {
@@ -348,7 +348,7 @@
     }
 
     commentCPlus(args, util) {
-      util.startBranch(1, false);
+      return true;
     }
     
     commentReporterPlusPlus(args) {
@@ -376,7 +376,7 @@
     }
     
     commentCPlusPlus(args, util) {
-      util.startBranch(1, false) && util.startBranch(2, false);
+      return true;
     }
   }
   Scratch.extensions.register(new CommentPlus());
