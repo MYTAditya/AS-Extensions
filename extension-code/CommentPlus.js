@@ -376,7 +376,8 @@
     }
     
     commentCPlusPlus(args, util) {
-      return true;
+      util.startBranch(1, false);
+      util.startBranch(2, false);
     }
   }
   Scratch.extensions.register(new CommentPlus());
