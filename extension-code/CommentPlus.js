@@ -376,7 +376,7 @@
     }
     
     commentCPlusPlus(args, util) {
-      return true,
+      return true;
       return true;
     }
   }
