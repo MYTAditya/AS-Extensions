@@ -277,24 +277,6 @@
               },
             },
           },
-          {
-            opcode: "commentCPlusPlus",
-            blockType: Scratch.BlockType.CONDITIONAL,
-            branchCount: 2,
-            text: [ "// [COMMENT1]",
-                    "// [COMMENT2]"
-                  ],
-            arguments: {
-              COMMENT1: {
-                type: Scratch.ArgumentType.STRING,
-                defaultValue: "comment",
-              },
-              COMMENT2: {
-                type: Scratch.ArgumentType.STRING,
-                defaultValue: "comment",
-              },
-            },
-          },
         ],
       };
     }
@@ -373,11 +355,6 @@
 
     commentBooleanP7(args) {
       return args.COLOR || false;
-    }
-    
-    commentCPlusPlus(args, util) {
-      util.startBranch(1, false);
-      util.startBranch(2, false);
     }
   }
   Scratch.extensions.register(new CommentPlus());
